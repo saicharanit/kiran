@@ -1,0 +1,94 @@
+tell me about day to day avtitiy
+
+
+9000 didacted vitural desktop and 120 application 
+120vendor 
+---------------------
+sudo :Xendesktop 
+dirctory :xenapp
+----------------------
+how many devlry contollor 
+
+each farm 4 contollor 
+
+----------
+
+version software------
+xenapp 7.6(1)
+xenapp 7.15(4)
+-----------
+opt file :- 
+6.0 :30days
+latest :60days
+
+--------
+types of laclines 
+
+---------
+
+do have both 
+
+ctrix and rdp lcenices for application "
+
+------------------------------
+user or not able to lunch application?
+
+porblm srever 
+not unstall proprly 
+
+which server not publising 
+
+----------------------
+l3 --7pepole 
+--------
+any changes l3 people do
+------------
+citrix lecience adituions
+---------------------
+diff entrrispe auditon 
+
+-----------------
+any future limitons
+--------------------
+advnce adutions 
+plantnuim //extra futres 
+
+---------------
+how have citirx dirctory 
+-------------------
+only one dirctory 
+-------------
+
+have conf citirx conf
+--------------
+4dlvry contorllor  out 3dlvry down 
+-----------------------------
+load elavators
+---------------
+
+dow you load thortting
+-----------------
+loadsote line
+
+values:
+-----------------
+we have 5forms user have to apply 
+8080
+80 server 
+------
+sta
+
+----------------
+user ploices
+
+-------------
+scurity ploices 
+
+-------------
+printer redirction ploices
+
+-----------------
+unverisal printer driver 
+-------------------
+crtix drvir we need to install any drver 
+-----------------
